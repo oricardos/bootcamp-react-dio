@@ -37,7 +37,7 @@
 - Práticas Avançadas em projetos com Reactjs
 
 ## :green_book:  O que estou estudando no momento? 
-- Introdução
+- Lógica de Programação
 
 ## :closed_book: O que já aprendi
 - 
