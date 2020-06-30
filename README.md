@@ -39,7 +39,7 @@
 ## :green_book:  O que estou estudando no momento? 
 - Lógica de Programação
 
-## :closed_book: O que já aprendi
+## :closed_book: O que já aprendi!
 - 
 
 ## :link: Como contribuir 
