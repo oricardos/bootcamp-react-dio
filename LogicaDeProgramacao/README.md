@@ -55,11 +55,10 @@ __Exemplo__
 </p>
 
 <h3>Variáveis e constantes</h3>
-<p>
-   > "Na programação, uma variável é um objeto (uma posição, frequentemente localizada na memória) capaz de reter e representar um valor ou expressão".
 
-    "Uma variável é um espaço na memória do computador destinado aum dado que é alterado durante a execução do algoritmo".
-</p>
+> "Na programação, uma variável é um objeto (uma posição, frequentemente localizada na memória) capaz de reter e representar um valor ou expressão".
+
+> "Uma variável é um espaço na memória do computador destinado aum dado que é alterado durante a execução do algoritmo".  
 
 <h4>Declaração de variáveis</h4>
 <p>
