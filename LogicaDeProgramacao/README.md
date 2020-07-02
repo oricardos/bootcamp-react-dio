@@ -6,16 +6,18 @@
 
 
 <h3>Algoritmos</h3> 
-<p>O algoritmo na programação, é uma sequencia de passos que resolve um problema, é como uma receita, e como uma receita, esses passos são finitos.</p>
-**EXEMPLO**
+<p>O algoritmo na programação, é uma sequência de passos que resolve um problema, é como uma receita, e como uma receita, esses passos são finitos.</p>
+
+__Exemplo__
+
 - INICIO-DIA
     - acordar
     - levantar
     - trocar de roupa
     - escovar os dentes
     - ir à padaria
-    ...
--FIM-DIA
+    - ...
+- FIM-DIA
 
 <h3>Pseudocódigos</h3>
 <p>
@@ -30,7 +32,7 @@
     - trocar de roupa
     - escovar os dentes
     - trabalhar
-    ...
+    - ...
     - chegar em casa
     - passar alcool em gel (Corona né!?)
     - tomar banho
