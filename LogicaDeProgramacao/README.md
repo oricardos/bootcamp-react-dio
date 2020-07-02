@@ -34,7 +34,7 @@ __Exemplo__
     - trabalhar
     - ...
     - chegar em casa
-    - passar alcool em gel (Corona né!?)
+    - passar alcool em gel (Corona né!? :mask:)
     - tomar banho
     - passar um tempo com minha família
     - jantar
