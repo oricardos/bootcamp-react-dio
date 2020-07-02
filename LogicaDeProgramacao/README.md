@@ -7,7 +7,7 @@
 
 <h3>Algoritmos</h3> 
 <p>O algoritmo na programação, é uma sequencia de passos que resolve um problema, é como uma receita, e como uma receita, esses passos são finitos.</p>
-<p>**EXEMPLO**</p>
+**EXEMPLO**
 - INICIO-DIA
     -acordar
     -levantar
@@ -54,7 +54,7 @@
 
 <h3>Variáveis e constantes</h3>
 <p>
-    "Na programação, uma variável é um objeto (uma posição, frequentemente localizada na memória) capaz de reter e representar um valor ou expressão".
+   > "Na programação, uma variável é um objeto (uma posição, frequentemente localizada na memória) capaz de reter e representar um valor ou expressão".
 
     "Uma variável é um espaço na memória do computador destinado aum dado que é alterado durante a execução do algoritmo".
 </p>
