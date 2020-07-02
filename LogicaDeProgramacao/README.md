@@ -9,11 +9,11 @@
 <p>O algoritmo na programação, é uma sequencia de passos que resolve um problema, é como uma receita, e como uma receita, esses passos são finitos.</p>
 **EXEMPLO**
 - INICIO-DIA
-    -acordar
-    -levantar
-    -trocar de roupa
-    -escovar os dentes
-    -ir à padaria
+    - acordar
+    - levantar
+    - trocar de roupa
+    - escovar os dentes
+    - ir à padaria
     ...
 -FIM-DIA
 
@@ -23,23 +23,23 @@
 </p>
 
 ## **EXERCÍCIO**
-**Criar um algoritmo do dia
+**Criar um algoritmo do dia**
 - INICIO-DIA
-    -acordar
-    -levantar
-    -trocar de roupa
-    -escovar os dentes
-    -trabalhar
+    - acordar
+    - levantar
+    - trocar de roupa
+    - escovar os dentes
+    - trabalhar
     ...
-    -chegar em casa
-    -passar alcool em gel (Corona né!?)
-    -tomar banho
-    -passar um tempo com minha família
-    -jantar
-    -escovar os dentes
-    -estudar
-    -dormir
--FIM-DIA
+    - chegar em casa
+    - passar alcool em gel (Corona né!?)
+    - tomar banho
+    - passar um tempo com minha família
+    - jantar
+    - escovar os dentes
+    - estudar
+    - dormir
+- FIM-DIA
 
 <h3>Fluxogramas</h3>
 <p>
