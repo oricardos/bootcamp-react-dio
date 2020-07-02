@@ -65,22 +65,18 @@ __Exemplo__
     A seguir darei um pequeno exemplo de como declarar variáveis
 </p>
 
-<p>
+```
     DECLARA n1 = 10;
     DECLARA n2 = 3;
     DECLARA total = n1 + n2; 
     IMPRIMIR (total)
+```
+__Entendendo o código acima__
 
-    **passo-a-passo**
-
-    n1 recebe 10
-    n2 recebe 3
-    total recebe o resultado da soma de n1 + n2
-    IMPRIMIR o total - mostrar o valor da variável
-
-    Após a declaração das variáveis, elas ficarão armazenadas na memória do computador, como já falamos. Mas e como vou ver o resultado dessa soma?
-</p>
-
+   **n1** recebe __10__<br/>
+   __n2__ recebe __3__<br/>
+   __total__ recebe o resultado da soma de __n1__ + __n2__<br/>
+   __IMPRIMIR__ o total - mostrar o valor da variável<br/>
 
 ## :link: Como contribuir 
 
